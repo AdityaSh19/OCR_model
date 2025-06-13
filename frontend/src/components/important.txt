@@ -1,0 +1,2 @@
+npm install docx file-saver
+npm install react-icons

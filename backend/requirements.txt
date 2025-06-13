@@ -1,0 +1,15 @@
+fastapi
+python-multipart
+uvicorn
+requests
+python-dotenv
+aiofiles
+wordcloud 
+pillow
+markdown2
+reportlab
+pypdf
+python-bidi
+fonttools
+openai
+together
